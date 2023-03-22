@@ -8,7 +8,7 @@
 2 способ:
 * Скачайте систему контроля версий <code>[Git](https://git-scm.com/download/win "Git")</code>, если он у вас не установлен
 * Выберите место, где хотите разместить проект
-* Нажмите ПКМ и выберите Git Bash Here
+* Нажмите ПКМ и выберите `Git Bash Here`
 * В открывшемся терминале напишите `git clone https://github.com/FireCat999/pizza.git`
 
 ### 2. Скачать и установить OpenServer
